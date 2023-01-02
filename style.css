@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+
 body {
     margin: 0px;
     display: flex;
@@ -18,7 +20,11 @@ ul {
     gap: 50px;
     margin-right: 100px;
     list-style-type: none;
+    font-family: 'Roboto', 'Open Sans', sans-serif;
+}
 
+.hero {
+    display: flex; 
 }
 
 img {
